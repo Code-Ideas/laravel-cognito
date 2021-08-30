@@ -1,5 +1,5 @@
 {
-  "name": "laravel/cognito-auth",
+  "name": "dev-object/laravel-cognito-auth",
   "description": "An authentication driver for Laravel for authenticating users in AWS Cognito User Pools",
   "keywords": ["php", "laravel", "auth", "aws", "cognito"],
   "license": "MIT",

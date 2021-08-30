@@ -29,16 +29,16 @@ This package makes use of the  [aws-sdk-php-laravel](https://github.com/aws/aws-
 
 ### Install
 
-Add `laravel/cognito-auth` to `composer.json` and run `composer update` to pull down the latest version:
+Add `dev-object/laravel-cognito-auth` to `composer.json` and run `composer update` to pull down the latest version:
 
 ```
-"laravel/cognito-auth": "~1.0"
+"dev-object/laravel-cognito-auth": "~1.0"
 ```
 
 Or use `composer require`:
 
 ```
-composer require laravel/cognito-auth
+composer require dev-object/laravel-cognito-auth
 ```
 
 Add the service provider and the [aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel) service provider to the `providers` array in `config/app.php`.
